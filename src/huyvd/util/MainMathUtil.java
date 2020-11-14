@@ -30,6 +30,7 @@ public class MainMathUtil {
 	
 	System.out.println("expected: IllegalArgumentException: " + MathUtility.getFactorial(-5));
 	
+	System.out.println("Chuc cuoi tuan thu 9 vui ve");
 	
     }
 }
