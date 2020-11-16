@@ -7,6 +7,6 @@
 * ...
 
 ## Connect me via
-[Facebook](https:facebook.com/duchuy2501)
+[Facebook](https://facebook.com/duchuy2501)
 
 #### © 2020 by BlankSpace
